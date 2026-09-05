@@ -64,14 +64,6 @@ Obsessed with speed and efficiency - optimizing applications for maximum perform
 
 ---
 
-### 📊 **Activity Graph**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xSilverStar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B" alt="Activity Graph" />
-</div>
-
----
-
 ### 💫 **Connect & Collaborate**
 
 <div align="center">
